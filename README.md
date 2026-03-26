@@ -12,10 +12,10 @@ Typical tools for either solution are:
 Javascript include
 - [Google Analytics](https://marketingplatform.google.com/about/analytics/)
 - [Matomo](https://matomo.org/)
+- [Hotjar](https://hotjar.com)
 
 Access log analyses
 - [Elastic logstash](https://www.elastic.co/logstash)
-- [Splunk](https://www.splunk.com/)
 - [AWStats](https://awstats.sourceforge.io/)
 
 ## Feed back into search ranking
@@ -29,4 +29,5 @@ Data collected as part of Usage monitoring is typically sensitive in the scope o
 
 ## Soilwise website
 
-Notice that the soilwise website currently uses google analytics
+- Notice that the soilwise website currently uses google analytics
+- The catalogue currently usses hotjar.
