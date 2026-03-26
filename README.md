@@ -27,7 +27,7 @@ A feedback loop from the usage statistics component
 
 Data collected as part of Usage monitoring is typically sensitive in the scope of GDPR. Careful governance is required.
 
-## Soilwise website
+## Most recent implementations
 
 - Notice that the soilwise website currently uses google analytics
 - The catalogue currently usses hotjar.
